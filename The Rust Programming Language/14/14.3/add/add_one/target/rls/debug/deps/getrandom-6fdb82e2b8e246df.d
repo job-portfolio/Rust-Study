@@ -1,0 +1,11 @@
+/Users/silent/Documents/Rust/Rust Basics/The Rust Programming Language/14/14.3/add/add_one/target/rls/debug/deps/getrandom-6fdb82e2b8e246df.rmeta: /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error_impls.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/silent/Documents/Rust/Rust Basics/The Rust Programming Language/14/14.3/add/add_one/target/rls/debug/deps/getrandom-6fdb82e2b8e246df.d: /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error_impls.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs:
+/Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs:
+/Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs:
+/Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error_impls.rs:
+/Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs:
+/Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs:
+/Users/silent/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs:

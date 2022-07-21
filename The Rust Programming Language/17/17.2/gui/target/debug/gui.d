@@ -1,0 +1,1 @@
+/Users/silent/Documents/Rust/Rust\ Basics/The\ Rust\ Programming\ Language/17/17.2/gui/target/debug/gui: /Users/silent/Documents/Rust/Rust\ Basics/The\ Rust\ Programming\ Language/17/17.2/gui/src/lib.rs /Users/silent/Documents/Rust/Rust\ Basics/The\ Rust\ Programming\ Language/17/17.2/gui/src/main.rs

@@ -1,0 +1,1 @@
+/Users/silent/Documents/Rust/Rust\ Basics/The\ Rust\ Programming\ Language/12/12.1/minigrep/target/debug/libminigrep.rlib: /Users/silent/Documents/Rust/Rust\ Basics/The\ Rust\ Programming\ Language/12/12.1/minigrep/src/lib.rs
